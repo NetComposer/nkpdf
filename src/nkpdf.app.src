@@ -1,0 +1,8 @@
+{application, nkpdf, [
+    {description, "NetCompose PDF generation"},
+    {vsn, "develop"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []}
+]}.

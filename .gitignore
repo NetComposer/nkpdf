@@ -1,0 +1,7 @@
+ebin
+.rebar3
+/log
+/_checkouts
+/_build
+/rebar3
+.idea
